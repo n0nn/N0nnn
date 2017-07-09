@@ -1,7 +1,3 @@
-#Skeptical - Öğrenilen Çoğu Python Komutun birleştiği yer#
-
-#if bool(kullanıcı) == True (baş harfi büyük "T")
-
 while True:
 	zx = input("Devam etmek için bir tuşa çıkmak için q tuşuna basın..")
 	if zx == "q":
